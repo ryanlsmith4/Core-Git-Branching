@@ -31,3 +31,4 @@ The end.
 * Unicorn King: Alan
 * Zookeeper: Braus
 * Friendly Koala: Mike
+* Zookeeper: Ray PandBear
